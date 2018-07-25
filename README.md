@@ -24,3 +24,5 @@ Required to write a new test suite with an "initial entries" variable.  The test
 **Test #6 New Feed Selection**
 Required to write one last test suite with "new feed selection" variable.  This test was to make sure that if the news feed content changed within the array that the loadFeed function would activate the change to show the new data content.
 
+Source code contribution: Udacity    Code overview and examples: Matt Cranford
+
